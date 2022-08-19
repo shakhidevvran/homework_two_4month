@@ -1,0 +1,67 @@
+body{
+    background: white;
+}
+
+.block-a{
+    background: white;
+    width: 800px;
+
+}
+
+.text{
+    color: #414b50;
+    font-size: 14px;
+    vertical-align: top;
+    margin: 7px;
+    line-height: 33px;
+    font-family: Fira Sans,sans-serif;
+
+}
+.text2{
+    color: #5e6973;
+    font-size: 13px;
+    font-weight: 500;
+    vertical-align: top;
+    margin: 7px;
+    line-height: 33px;
+    font-family: Fira Sans,sans-serif;
+}
+h1{
+    line-height: 1.3;
+    font-family: Fira Sans,sans-serif;
+    color: #333;
+    font-size: 1.5rem;
+    margin: 0 0 4px;
+}
+h4{
+    color: #5e6973;
+    font-size: 15px;
+    line-height: 10px;
+    font-weight: 400;
+    font-family: Fira Sans,sans-serif;
+}
+
+p{
+    font-size: 17px;
+    line-height: 25px;
+    color: #111;
+    font-family: Fira Sans,sans-serif;
+}
+
+.block-b{
+    background: white;
+    width: 110px;
+    height: 40px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: dodgerblue;
+
+}
+.text3{
+    color: dodgerblue;
+    font-size: 17px;
+    line-height: 21px;
+    margin: 7px;
+}
